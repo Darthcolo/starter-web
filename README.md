@@ -17,3 +17,7 @@ More text.
 ## More subheadings
 
 Text.
+
+### Copyright
+
+This is a copyright section.
