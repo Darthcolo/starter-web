@@ -27,3 +27,4 @@ Adding some new text.........
 ## New text
 
 Adding a new line for rebasing example.
+More changes from myfeature branch.
