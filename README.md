@@ -23,3 +23,7 @@ Text.
 This is a copyright section.
 
 Adding some new text.........
+
+## New text
+
+Adding a new line for rebasing example.
