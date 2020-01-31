@@ -24,6 +24,8 @@ This is a copyright section.
 
 Adding some new text.........
 
+This is a new addition.
+
 ## New text
 
 Adding a new line for rebasing example.
