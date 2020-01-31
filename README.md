@@ -26,6 +26,8 @@ Adding some new text.........
 
 This is a new addition.
 
+Another addition to the file.
+
 ## New text
 
 Adding a new line for rebasing example.
