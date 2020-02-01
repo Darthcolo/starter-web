@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-
+Bull sh@t.
 # TEAM
 
 	Damian	Developer	Twiiiiiiit
